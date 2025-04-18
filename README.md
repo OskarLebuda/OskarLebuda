@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Oskar Lebuda**, the creator of [Vercube](https://github.com/olebuda/vercube) and Head of Development at [E Net Production](https://enetproduction.com). I'm passionate about building innovative solutions and contributing to the open-source community.
+I'm **Oskar Lebuda**, the creator of [Vercube](https://github.com/vercube/vercube) and Head of Development at [E Net Production](https://enetproduction.com). I'm passionate about building innovative solutions and contributing to the open-source community.
 
 ## About Me
 
