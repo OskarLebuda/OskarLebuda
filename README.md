@@ -15,5 +15,5 @@ I'm **Oskar Lebuda**, the creator of [Vercube](https://github.com/olebuda/vercub
 If you find my work valuable, consider supporting me:
 
 - ⭐ Star my repositories
-- 💝 [Sponsor me on GitHub](https://github.com/sponsors/olebuda)
+- 💝 [Sponsor me on GitHub](https://github.com/sponsors/OskarLebuda)
 - 🤝 Contribute to my projects
